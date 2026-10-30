@@ -1,0 +1,5 @@
+# Sistemas Inteligentes 26-27 — dependencias de las prácticas
+matplotlib>=3.7
+pandas>=2.0
+pytest>=7.4
+jupyter>=1.0
